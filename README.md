@@ -8,6 +8,10 @@
   <a href="https://discord.gg/q6YpmyA">
     <img src="https://cdn.discordapp.com/attachments/584934883109896196/587463458895691786/44cce62d0b351a695a2bca90f8077274c78b54c11c091f8985e0faa3b364a108.png" alt="Support">
   </a>
+  
+   <a href="https://discordapp.com/api/oauth2/authorize?client_id=587063217457463351&permissions=8&scope=bot">
+    <img src="https://cdn.discordapp.com/attachments/584934883109896196/587464298159407114/44cce62d0b351a695a2bca90f8077274c78b54c11c091f8985e0faa3b364a108.png">
+  </a>
 
 ## How Does Micky Work?
 
