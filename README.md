@@ -5,6 +5,10 @@
   <br>
   <br>
 
+  <a href="https://discord.gg/q6YpmyA">
+    <img src="https://cdn.discordapp.com/attachments/584934883109896196/587463458895691786/44cce62d0b351a695a2bca90f8077274c78b54c11c091f8985e0faa3b364a108.png" alt="Support">
+  </a>
+
 ## How Does Micky Work?
 
 <img src="https://cdn.discordapp.com/attachments/584934883109896196/587458345158311946/unknown.png" align="right" height="350">
