@@ -47,7 +47,7 @@ Go to Heroku, if you aren't signed in through Heroku, please do. Then here are t
 <li>Edit the "Worker: node start.js" and turn it on. then save it.</li>
 <li>Then deploy the branch again, and your finished!</li>
 
-If none of that helped you, please watch this video.
+If none of that helped you, please watch this video down below. It will help you indeed.
 
 `VIDEO BEING RECORDED NOW, PLEASE WAIT`
 
