@@ -29,6 +29,28 @@ Some commands may have errors while trying. If you do get an error, or the bot i
 
 Oh that. Good thinking, you really helped me there. Moderation and fun games will be added to the bot. Thats why we said your server will soon become a future, We will have `?minesweeper`, `?kick [@user] [reason]` and much more than that. This bot soon will become your favorite, and we do know. We will make sure you got what you would like to suggest for our bot!
 
+## Installiton
+
+First, to `officaly` install this, you will need to fork this repository to `cliam` this.  At the top of this page, you should see a button that says: `Fork`. Click it, then it will print this page so you can have it and so can I. then, go to `information.bot.json`. Change the stuff you will need to change. Then create a new file and name that `Procfile`. and type this inside the file: `Worker: node start.js`. The 24/7 worker will say this in the terminal: `node start.js`. Hopefully your getting it now. After that, save it. Then here is the next step.
+
+
+Go to Heroku, if you aren't signed in through Heroku, please do. Then here are the steps you will need to do this correctly.
+<li>Create an app.</li>
+<li>Name the app</li>
+<li>Go Deploy</li>
+<li>Click GitHub</li>
+<li>Click the repository you forked</li>
+<li>Enable Automatic Deploys</li>
+<li>Click Deploy Branch to start</li>
+<li>Once that is finished, go to Overview</li>
+<li>Wait for the dynos to pop up, if they say "Worker: node start.js", click Configure Dynos.</li>
+<li>Edit the "Worker: node start.js" and turn it on. then save it.</li>
+<li>Then deploy the branch again, and your finished!</li>
+
+If none of that helped you, please watch this video.
+
+`VIDEO BEING RECORDED NOW, PLEASE WAIT`
+
 <br>
 <img src='https://cdn.discordapp.com/attachments/587093979808399361/587794982593626133/unknown.png' align='center' width=500>
 </div>
