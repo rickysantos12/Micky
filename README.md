@@ -27,7 +27,7 @@ Some commands may have errors while trying. If you do get an error, or the bot i
 
 ## What about other stuff then suggestions?
 
-Oh that. Good thinking, you really helped me there. Moderation and fun games will be added to the bot. Thats why we said your server will soon become a future, We will have `?minesweeper`, `?kick [@user] [reason]` and much more than that. This bot soon will become your favorite, and we do know.
+Oh that. Good thinking, you really helped me there. Moderation and fun games will be added to the bot. Thats why we said your server will soon become a future, We will have `?minesweeper`, `?kick [@user] [reason]` and much more than that. This bot soon will become your favorite, and we do know. We will make sure you got what you would like to suggest for our bot!
 
 <br>
 <img src='https://cdn.discordapp.com/attachments/587093979808399361/587794982593626133/unknown.png' align='center' width=500>
